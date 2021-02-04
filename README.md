@@ -1,2 +1,2 @@
 # projects_git
-A  rpository of my simple work
+A  rpository of my simple work.
